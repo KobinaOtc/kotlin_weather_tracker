@@ -17,5 +17,4 @@ The application is written entirely in Kotlin. It leverages Kotlin's modern synt
 - **JSON Serialization**: Utilized to parse the raw JSON HTTP responses from the weather API into structured Kotlin objects.
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Kotlin Docs](https://kotlinlang.org/docs/)
